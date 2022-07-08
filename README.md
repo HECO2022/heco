@@ -1,2 +1,2 @@
 # heco.github.io
-Homepa for Human Emotion in COntext
+Homepage for Human Emotion in COntext
