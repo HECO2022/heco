@@ -1,6 +1,6 @@
 
 ![图片](images/heco.png)
-![sdsfsdf](images/model.png)
+
 
 # Emotion Recognition for Multiple Context Awareness (ECCV 2022)
 <br>
